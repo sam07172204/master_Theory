@@ -1,0 +1,2 @@
+1.利用RAM特性來儲存資料
+2.製作簡易Wear Levleing，每次儲存都到block錶中尋找最小erase count的block存入
