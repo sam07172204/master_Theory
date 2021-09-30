@@ -1,0 +1,6 @@
+#this_file_will_copy_to_RAM Disk_you_can_select_the_file_path
+/sam/test/test.txt
+
+
+#Set the number of seconds to move data into RAMDISK sec=2
+
